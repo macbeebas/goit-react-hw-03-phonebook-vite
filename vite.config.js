@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   base: "/goit-react-hw-03-phonebook-vite/",
   plugins: [react()],
-  server.hmr.overlay: false,
+  // server.hmr.overlay: false,
 });
